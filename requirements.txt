@@ -1,1 +1,1 @@
--e git+https://github.com/openai/whisper.git
+-e git+https://github.com/openai/whisper.git#egg=whisper
